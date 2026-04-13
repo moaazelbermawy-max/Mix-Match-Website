@@ -1,0 +1,24 @@
+@font-face{
+    font-family: sleekFont;
+    src: url(Sleek.otf);
+}
+@font-face{
+    font-family: sleekyFont;
+    src: url(Sleeky.ttf);
+}
+h1{
+text-align: center;
+font-family: sleekFont;
+}
+body{
+    background-color: #6b6a6a;
+}
+h2{
+    font-family: sleekyFont;
+    text-align: center;
+
+}
+.shark{
+    display: flex;
+    align-items:center;
+}
